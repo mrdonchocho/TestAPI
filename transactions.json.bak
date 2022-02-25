@@ -5,35 +5,40 @@
          "date":"25-Feb-2022",
          "narration":"Fixing of Generator",
          "tranType":"D",
-         "amount":"33,100.00"
+         "amount":"33,100.00",
+		 "balance":"25885.21"
       },
       {
          "id":"34523",
          "date":"02-Feb-2022",
          "narration":"Birthday cake",
          "tranType":"D",
-         "amount":"7,500.00"
+         "amount":"7,500.00",
+		 "balance":"257885.21"
       },
       {
          "id":"34234",
          "date":"23-Jan-2022",
          "narration":"Pay Lola",
          "tranType":"C",
-         "amount":"478,800.67"
+         "amount":"478,800.67",
+		 "balance":"28885.21"
       },
       {
          "id":"6543",
          "date":"15-Jan-2022",
          "narration":"For Car repairs",
          "tranType":"D",
-         "amount":"3,450.00"
+         "amount":"3,450.00",
+		 "balance":"25335.21"
       },
       {
          "id":"9876",
          "date":"01-Jan-2022",
          "narration":"Pay Lola",
          "tranType":"D",
-         "amount":"23,800.00"
+         "amount":"23,800.00",
+		 "balance":"466000.67"
       }
    ]
 }

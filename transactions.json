@@ -1,35 +1,35 @@
 {
    "data":[
       {
-         "id":"1",
-         "date":"01-Jan-2022",
-         "narration":"Pay Lola",
+         "id":"3673",
+         "date":"25-Feb-2022",
+         "narration":"Fixing of Generator",
          "tranType":"D",
-         "amount":"23,800.00"
+         "amount":"33,100.00"
       },
       {
-         "id":"1",
-         "date":"01-Jan-2022",
-         "narration":"Pay Lola",
+         "id":"34523",
+         "date":"02-Feb-2022",
+         "narration":"Birthday cake",
          "tranType":"D",
-         "amount":"23,800.00"
+         "amount":"7,500.00"
       },
       {
-         "id":"1",
-         "date":"01-Jan-2022",
+         "id":"34234",
+         "date":"23-Jan-2022",
          "narration":"Pay Lola",
-         "tranType":"D",
-         "amount":"23,800.00"
+         "tranType":"C",
+         "amount":"478,800.67"
       },
       {
-         "id":"1",
-         "date":"01-Jan-2022",
-         "narration":"Pay Lola",
+         "id":"6543",
+         "date":"15-Jan-2022",
+         "narration":"For Car repairs",
          "tranType":"D",
-         "amount":"23,800.00"
+         "amount":"3,450.00"
       },
       {
-         "id":"1",
+         "id":"9876",
          "date":"01-Jan-2022",
          "narration":"Pay Lola",
          "tranType":"D",

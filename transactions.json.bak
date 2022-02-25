@@ -1,0 +1,39 @@
+{
+   "data":[
+      {
+         "id":"1",
+         "date":"01-Jan-2022",
+         "narration":"Pay Lola",
+         "tranType":"D",
+         "amount":"23,800.00"
+      },
+      {
+         "id":"1",
+         "date":"01-Jan-2022",
+         "narration":"Pay Lola",
+         "tranType":"D",
+         "amount":"23,800.00"
+      },
+      {
+         "id":"1",
+         "date":"01-Jan-2022",
+         "narration":"Pay Lola",
+         "tranType":"D",
+         "amount":"23,800.00"
+      },
+      {
+         "id":"1",
+         "date":"01-Jan-2022",
+         "narration":"Pay Lola",
+         "tranType":"D",
+         "amount":"23,800.00"
+      },
+      {
+         "id":"1",
+         "date":"01-Jan-2022",
+         "narration":"Pay Lola",
+         "tranType":"D",
+         "amount":"23,800.00"
+      }
+   ]
+}

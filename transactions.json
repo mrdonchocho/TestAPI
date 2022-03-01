@@ -1,44 +1,54 @@
 {
-   "data":[
+  "data": {
+    "openingBalance": 22885.21,
+    "closingBalance": 993557.95,
+    "statementList": [
       {
-         "id":"3673",
-         "date":"25-Feb-2022",
-         "narration":"Fixing of Generator",
-         "tranType":"D",
-         "amount":"33,100.00",
-         "balance":"25885.21"
+        "transactionReference": "136SDMC22033000L",
+        "statementDate": "2022-02-28T16:07:12",
+        "transactionDate": "2022-02-02T00:00:00",
+        "description": "REV:VDPAY/PBBOT-BILLPAY-PHCN PREPAID-0434556574/14531609259830213",
+        "transactionAmount": "-100.0",
+        "transactionType": "D",
+        "balance": "993557.95"
       },
       {
-         "id":"34523",
-         "date":"02-Feb-2022",
-         "narration":"Birthday cake",
-         "tranType":"D",
-         "amount":"7,500.00",
-         "balance":"257885.21"
+        "transactionReference": "136SDMC22033000L",
+        "statementDate": "2022-02-28T16:07:12",
+        "transactionDate": "2022-02-02T00:00:00",
+        "description": "REV:VDPAY/PBBOT-BILLPAY-PHCN PREPAID-0434556574/14531609259830213",
+        "transactionAmount": "-15000.0",
+        "transactionType": "D",
+        "balance": "993457.95"
       },
       {
-         "id":"34234",
-         "date":"23-Jan-2022",
-         "narration":"Pay Lola",
-         "tranType":"C",
-         "amount":"478,800.67",
-         "balance":"28885.21"
+        "transactionReference": "136SDMC22033000K",
+        "statementDate": "2022-02-28T16:06:11",
+        "transactionDate": "2022-02-02T00:00:00",
+        "description": "REV:VDPAY/PBBOT-BILLPAY-PHCN PREPAID-0434556574/14531608659639560",
+        "transactionAmount": "-15000.0",
+        "transactionType": "D",
+        "balance": "978457.95"
       },
       {
-         "id":"6543",
-         "date":"15-Jan-2022",
-         "narration":"For Car repairs",
-         "tranType":"D",
-         "amount":"3,450.00",
-         "balance":"25335.21"
+        "transactionReference": "136SDMC22033000K",
+        "statementDate": "2022-02-28T16:06:11",
+        "transactionDate": "2022-02-02T00:00:00",
+        "description": "REV:VDPAY/PBBOT-BILLPAY-PHCN PREPAID-0434556574/14531608659639560",
+        "transactionAmount": "-100.0",
+        "transactionType": "D",
+        "balance": "963457.95"
       },
       {
-         "id":"9876",
-         "date":"01-Jan-2022",
-         "narration":"Pay Lola",
-         "tranType":"D",
-         "amount":"23,800.00",
-         "balance":"466000.67"
+        "transactionReference": "136SDMC22033000J",
+        "statementDate": "2022-02-28T16:05:10",
+        "transactionDate": "2022-02-02T00:00:00",
+        "description": "REV:VDPAY/PBBOT-BILLPAY-PHCN PREPAID-0434556574/14531607863489325",
+        "transactionAmount": "-100.0",
+        "transactionType": "D",
+        "balance": "963357.95"
       }
-   ]
+    ]
+  },
+  "success": true
 }

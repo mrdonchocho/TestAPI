@@ -6,7 +6,7 @@
          "narration":"Fixing of Generator",
          "tranType":"D",
          "amount":"33,100.00",
-		 "balance":"25885.21"
+         "balance":"25885.21"
       },
       {
          "id":"34523",
@@ -14,7 +14,7 @@
          "narration":"Birthday cake",
          "tranType":"D",
          "amount":"7,500.00",
-		 "balance":"257885.21"
+         "balance":"257885.21"
       },
       {
          "id":"34234",
@@ -22,7 +22,7 @@
          "narration":"Pay Lola",
          "tranType":"C",
          "amount":"478,800.67",
-		 "balance":"28885.21"
+         "balance":"28885.21"
       },
       {
          "id":"6543",
@@ -30,7 +30,7 @@
          "narration":"For Car repairs",
          "tranType":"D",
          "amount":"3,450.00",
-		 "balance":"25335.21"
+         "balance":"25335.21"
       },
       {
          "id":"9876",
@@ -38,7 +38,7 @@
          "narration":"Pay Lola",
          "tranType":"D",
          "amount":"23,800.00",
-		 "balance":"466000.67"
+         "balance":"466000.67"
       }
    ]
 }
